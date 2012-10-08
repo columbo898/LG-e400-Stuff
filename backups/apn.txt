@@ -1,0 +1,38 @@
+﻿APN:
+
+NAME: myGlobe Connect
+apn: www.globe.com.ph
+proxy: 203.177.042.214
+port: 8080mcc: 515
+mnc: 02
+
+-------------------------------
+
+name: myGlobe Internet
+apn: internet.globe.com.ph
+mcc:515
+mnc: 02
+
+-----------------------------
+
+name: MyGlobe Stream
+apn: real.globe.com.ph
+mcc: 515
+mnc: 02
+------------
+
+name: myglobe Inet
+apn: http.globe.com.ph
+mcc: 151
+mnc: 02
+
+-----------------------
+
+myGlobe MMS
+apn: mms.globe.com.ph
+mmsc: http://192.040.100.22:10021/mmsc
+mms proxy: 192.040.100.020
+mms port: 8080
+mcc: 515
+mnc: 02
+apn type: mms
